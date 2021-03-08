@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 7b37955fc8d6e704d9da435a0cdaca5e
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chalice_tx
+    second: {fileID: 2100000, guid: 841be9ae05a102a4b824340891c6be17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crown_tx
+    second: {fileID: 2100000, guid: 0f90a94d9d05d8648a1ac8dba3d435bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head_tx
+    second: {fileID: 2100000, guid: fe0299a8d306d46408dbe2c2d10a6efa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_Forearm_tx
+    second: {fileID: 2100000, guid: 69a29b6faa5b71643a16f6f71296dbeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_Lower_Leg_tx
+    second: {fileID: 2100000, guid: ce8518fdb7349534ca67d464f17483d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_Upper_Arm_tx
+    second: {fileID: 2100000, guid: 519606f745057bb4aa92c3f8d05ce1a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_Upper_Leg_tx
+    second: {fileID: 2100000, guid: 3b528452ea487ad4d9bead288ef0faa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ribs_tx
+    second: {fileID: 2100000, guid: 548f034a1fd645346a914c09303ef747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_Forearm_tx
+    second: {fileID: 2100000, guid: db8c80e3a7fb6144e978c4a74056f6fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_Lower_Leg_tx
+    second: {fileID: 2100000, guid: 572dbf2efb74dda4386b7bf93bb98845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_Upper_Arm_tx
+    second: {fileID: 2100000, guid: dc03122fd923aa5438a00e0e910741dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_Upper_Leg_tx
+    second: {fileID: 2100000, guid: 3b097b133314a224b81de500fd564ceb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Throne_tx
+    second: {fileID: 2100000, guid: 5da2ce064e2b83246a2490bcbf793291, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Throne-0-Chalice
+    second: {fileID: 2800000, guid: 6e2099b7d49dbb543bb2a1c0a31a7b51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Throne-1-Crown
+    second: {fileID: 2800000, guid: 536b7e06d1700a54686433d9112c25da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Throne-10-Left Upper Arm
+    second: {fileID: 2800000, guid: 96fcb3494f7d6c24c8318894b24e8b28, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Throne-11-Head
+    second: {fileID: 2800000, guid: e3f1ec3bdecd118439becea5caf27424, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Throne-12-Ribs
+    second: {fileID: 2800000, guid: ef7f3c097be7c604a87792d04ab23b6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Throne-2-Throne
+    second: {fileID: 2800000, guid: 2054c18f2032c224aacd3ce64a44f2db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Throne-3-Right Lower Leg
+    second: {fileID: 2800000, guid: e28dab751ef3dbd43b57b091e4f7a638, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Throne-4-Right Upper Leg
+    second: {fileID: 2800000, guid: 59e583a4e06d61a4d8dc816dffdfa643, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Throne-5-Left Lower Leg
+    second: {fileID: 2800000, guid: 32ce28e2cd4690f4ba6daa90a6a51248, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Throne-6-Left Upper Leg
+    second: {fileID: 2800000, guid: 6c9ffce1168b9a549be66fd9f56d3593, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Throne-7-Right Forearm
+    second: {fileID: 2800000, guid: 86c0101e6d81f974b905cdae2e87b4f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Throne-8-Right Upper Arm
+    second: {fileID: 2800000, guid: 4cdcf1dbc345d264d94b4b870422c9c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Throne-9-Left Forearm
+    second: {fileID: 2800000, guid: 2ee1e189c802fb84489c674de0d62ccc, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 275
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 2.75
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
